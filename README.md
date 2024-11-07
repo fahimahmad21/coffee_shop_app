@@ -28,7 +28,10 @@ lib/
 - **button_primary.dart**: Widget kustom untuk tombol utama dengan desain konsisten di seluruh aplikasi.
 
 ## Demo Aplikasi
-[DEMO](https://github.com/fahimahmad21/coffee_shop_app/blob/main/assets/video.mp4)
+
+https://github.com/user-attachments/assets/041c5575-6de2-4dfc-8b40-f174352e86e5
+
+
 ## Dokumentasi
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
     <img src="https://github.com/fahimahmad21/coffee_shop_app/blob/main/assets/output1.jpg?raw=true" alt="output1" width="200"/>
@@ -37,16 +40,3 @@ lib/
     <img src="https://github.com/fahimahmad21/coffee_shop_app/blob/main/assets/output4.jpg?raw=true" alt="output4" width="200"/>
 </div>
 
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
