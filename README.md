@@ -1,4 +1,4 @@
-# kopi_ningrat
+# coffee_shop_app
 
 A new Flutter project.
 
