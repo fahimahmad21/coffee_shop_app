@@ -28,7 +28,14 @@ lib/
 - **button_primary.dart**: Widget kustom untuk tombol utama dengan desain konsisten di seluruh aplikasi.
 
 ## Demo Aplikasi
-<iframe width="560" height="315" src="https://www.youtube.com/embed/video_id" frameborder="0" allowfullscreen></iframe>
+[DEMO](https://github.com/fahimahmad21/coffee_shop_app/blob/main/assets/video.mp4)
+## Dokumentasi
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <img src="https://github.com/fahimahmad21/coffee_shop_app/blob/main/assets/output1.jpg?raw=true" alt="output1" width="200"/>
+    <img src="https://github.com/fahimahmad21/coffee_shop_app/blob/main/assets/output2.jpg?raw=true" alt="output2" width="200"/>
+    <img src="https://github.com/fahimahmad21/coffee_shop_app/blob/main/assets/output3.jpg?raw=true" alt="output3" width="200"/>
+    <img src="https://github.com/fahimahmad21/coffee_shop_app/blob/main/assets/output4.jpg?raw=true" alt="output4" width="200"/>
+</div>
 
 
 ## Getting Started
