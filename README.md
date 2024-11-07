@@ -1,6 +1,35 @@
 # coffee_shop_app
+Aplikasi mobile berbasis Flutter dengan fitur-fitur untuk mengelola halaman utama kafe, daftar menu, dan daftar pembayaran. Aplikasi ini dirancang untuk memberikan pengalaman yang lancar dan responsif bagi pengguna.
 
-A new Flutter project.
+## Struktur Proyek
+Berikut adalah struktur proyek aplikasi:
+
+```plaintext
+lib/
+├── models/
+│   └── coffee.dart
+├── pages/
+│   ├── dashboard_fragment/
+│   │   └── home.fragment.dart
+│   ├── dashboard_page.dart
+│   ├── detail_page.dart
+│   └── onboard_page.dart
+├── widgets/
+│   └── button_primary.dart
+└── main.dart
+```
+## Keterangan
+- **main.dart**: File entry point aplikasi yang mengatur rute dan inisialisasi.
+- **coffee.dart**: Model data untuk objek kopi, termasuk atribut seperti nama, jenis, dan harga.
+- **home.fragment.dart**: Fragment untuk halaman utama dashboard yang menampilkan informasi dan produk kopi.
+- **dashboard_page.dart**: Halaman utama aplikasi yang mengatur navigasi dan konten inti.
+- **detail_page.dart**: Menampilkan detail lengkap produk kopi, termasuk gambar dan deskripsi.
+- **onboard_page.dart**: Halaman onboarding untuk memperkenalkan pengguna baru kepada aplikasi.
+- **button_primary.dart**: Widget kustom untuk tombol utama dengan desain konsisten di seluruh aplikasi.
+
+## Demo Aplikasi
+<iframe width="560" height="315" src="https://www.youtube.com/embed/video_id" frameborder="0" allowfullscreen></iframe>
+
 
 ## Getting Started
 
